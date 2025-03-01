@@ -1,0 +1,13 @@
+name: CSF407_2025_2022A7PS0063H
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python==3.10.16
+  - numpy
+  - scipy
+  - requests
+  - seaborn
+  - matplotlib
+  - pgmpy
+prefix: /Users/arnav/miniconda3/envs/CSF407_2025_2022A7PS0063H
